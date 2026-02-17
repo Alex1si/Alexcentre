@@ -27,5 +27,16 @@
       <pubDate>Wed, 05 Feb 2026 09:00:00 GMT</pubDate>
     </item>
 
+     <!-- ✅ ITEM ADDICIONAL -->
+    <item>
+      <title>Reunió informativa per a famílies de 1r d’ESO</title>
+      <description>El dijous 20 de febrer es farà una reunió informativa per a les famílies de 1r d’ESO a la sala d’actes.</description>
+      <link>https://alex1si.github.io/Alexcentre/reunio1eso.html</link>
+      <guid isPermaLink="true">https://alex1si.github.io/Alexcentre/reunio1eso.html</guid>
+      <pubDate>Thu, 12 Feb 2026 18:00:00 GMT</pubDate>
+      <author>coordinacio@exemplecentre.cat (Coordinació ESO)</author>
+      <category>Reunions</category>
+    </item>
+       
   </channel>
 </rss>
