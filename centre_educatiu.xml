@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notícies Centre Educatiu Exemple</title>
+    <link>https://alex1si.github.io/Alexcentre/</link>
+    <description>Canal RSS oficial del centre educatiu</description>
+    <language>ca</language>
+
+    <atom:link href="https://alex1si.github.io/Alexcentre/centre_educatiu.xml"
+               rel="self"
+               type="application/rss+xml" />
+
+    <item>
+      <title>Jornada de portes obertes 2026</title>
+      <description>El centre organitza una jornada de portes obertes el pròxim 15 de març per a famílies interessades.</description>
+      <link>https://alex1si.github.io/Alexcentre/portesobertes.html</link>
+      <guid>https://alex1si.github.io/Alexcentre/portesobertes.html</guid>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Inici del nou curs escolar</title>
+      <description>El curs 2026-2027 començarà el dia 12 de setembre amb noves activitats i projectes educatius.</description>
+      <link>https://alex1si.github.io/Alexcentre/noucurs.html</link>
+      <guid>https://alex1si.github.io/Alexcentre/noucurs.html</guid>
+      <pubDate>Wed, 05 Feb 2026 09:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
